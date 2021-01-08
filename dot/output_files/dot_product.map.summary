@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Fri Jan 08 17:45:03 2021
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : dot_product
+Top-level Entity Name : dot_product
+Family : Cyclone IV GX
+Total logic elements : 5,533
+    Total combinational functions : 5,533
+    Dedicated logic registers : 64
+Total registers : 64
+Total pins : 322
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jan 08 12:28:26 2021
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : inverse_matrix
+Top-level Entity Name : inverse_matrix
+Family : Cyclone II
+Device : EP2C70F896C8
+Timing Models : Final
+Total logic elements : 17,789 / 68,416 ( 26 % )
+    Total combinational functions : 17,789 / 68,416 ( 26 % )
+    Dedicated logic registers : 193 / 68,416 ( < 1 % )
+Total registers : 193
+Total pins : 514 / 622 ( 83 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 40 / 300 ( 13 % )
+Total PLLs : 0 / 4 ( 0 % )

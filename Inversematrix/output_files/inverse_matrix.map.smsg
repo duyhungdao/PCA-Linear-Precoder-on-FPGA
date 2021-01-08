@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at inverse_matrix.v(26): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at inverse_matrix.v(14): object "I" differs only in case from object "i" in the same scope

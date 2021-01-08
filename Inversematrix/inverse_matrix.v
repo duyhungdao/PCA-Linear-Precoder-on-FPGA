@@ -4,14 +4,15 @@
 // Module: Inverse Matrix 4x4
 //
 //////////////////////////////////////////////////////////////////////////////////
-module inverse_matrix(clk,reset,inv_0,inv_1,inv_2,inv_3,inp_0,inp_1,inp_2,inp_3);
+
+module inverse_matrix(clk,reset,inp_0,inp_1,inp_2,inp_3,inv_0,inv_1,inv_2,inv_3);
 
 //input declaration
 input clk, reset;
 
 //reg declaration
-reg [63:0]A[3:0];	//Input matrix A
-reg [63:0]I[3:0];	//Identity matrix I
+reg [63:0]A[0:3];	//Input matrix A
+reg [63:0]I[0:3];	//Identity matrix I
 reg [63:0]mult;	//constant for multiplication
 
 //integer declaration

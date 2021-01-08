@@ -1,0 +1,5 @@
+Warning (10273): Verilog HDL warning at sqrt.v(145): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at sqrt.v(165): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at sqrt.v(188): extended using "x" or "z"
+Warning (10268): Verilog HDL information at inverse_matrix.v(27): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at inverse_matrix.v(15): object "I" differs only in case from object "i" in the same scope

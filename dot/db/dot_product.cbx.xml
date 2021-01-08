@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="dot_product">
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult3" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult11" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out6" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult13" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out26" CBX_FILE_NAME="mac_out_uv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out8" CBX_FILE_NAME="mac_out_uv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult3" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult5" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out18" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult13" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out26" CBX_FILE_NAME="mac_out_uv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out8" CBX_FILE_NAME="mac_out_uv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out2" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out20" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult5" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out10" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out18" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult25" CBX_FILE_NAME="mac_mult_s2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult7" CBX_FILE_NAME="mac_mult_t2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out12" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out2" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out20" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0" CBX_FILE_NAME="mult_sit.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult17" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out4" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult25" CBX_FILE_NAME="mac_mult_s2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult7" CBX_FILE_NAME="mac_mult_t2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out12" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult1" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult9" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out14" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1" CBX_FILE_NAME="mult_sit.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult17" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out4" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult11" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_mult:mac_mult19" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out6" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult1" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult9" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_out:mac_out14" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult1|mult_sit:auto_generated|alt_mac_mult:mac_mult19" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|dot_product|lpm_mult:Mult0|mult_sit:auto_generated|alt_mac_out:mac_out10" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

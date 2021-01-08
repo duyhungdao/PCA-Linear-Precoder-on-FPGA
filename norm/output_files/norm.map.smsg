@@ -1,0 +1,3 @@
+Warning (10273): Verilog HDL warning at sqrt.v(145): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at sqrt.v(165): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at sqrt.v(188): extended using "x" or "z"
